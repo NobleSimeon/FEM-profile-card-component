@@ -22,12 +22,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.JGP)
+![](./screenshot.JPG)
 
 ### Links
 
 - Solution URL: [Git repository](https://github.com/NobleSimeon/FEM-profile-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,15 +41,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### What I learned
 
 This is one of the projects I started with and there were alot of things that I don't understand. i understood abit in Positioning
-
-```html
-```
-```css
-
-```
-```js
-
-```
 
 
 ### Continued development
